@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Quantanite**
 
-- 🌱 I’m currently learning **Python.**
+- 🌱 I’m currently learning **Web Design & Development**
 
 - 💬 Ask me about **Python**
 
