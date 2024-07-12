@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/Mahamud235/Mahamud235/main/header.png)
+![MasterHead](https://raw.githubusercontent.com/Mahamud235/Mahamud235/main/header.gif)
 <h1 align="center">Hi 👋, I'm Md. Mahamudur Rahman aka, Salman Hafeez</h1>
 <h3 align="center">A passionate frontend developer from Dhaka, Bangladesh. BSC in CSE from Green University of Bangladesh.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Mahamud235/Mahamud235/main/gif.gif"> 
