@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Quantanite**
 
-- 🌱 I’m currently learning **Web Design & Development**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Web Design & Development**
 
 - 📫 How to reach me **mdmahamudurrahman235@gmail.com**
 
