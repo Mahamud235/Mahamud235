@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahamud235&label=Profile%20views&color=0e75b6&style=flat" alt="mahamud235" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/mdmahamudurrahman235" target="blank"><img src="https://img.shields.io/twitter/follow/Md Mahamudur Rahman?logo=twitter&style=for-the-badge" alt="Md Mahamudur Rahman" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/mahamud235" target="blank"><img src="https://img.shields.io/twitter/follow/Md Mahamudur Rahman?logo=twitter&style=for-the-badge" alt="Md Mahamudur Rahman" /></a> </p>
 
 - 🔭 I’m currently working on **Quantanite**
 
@@ -16,6 +16,9 @@
 - 📫 How to reach me **mdmahamudurrahman235@gmail.com**
 
 - ⚡ Fun fact **Editing is like puzzle-solving; each cut and transition brings the picture closer to perfection✨**
+
+- ✨ Visit My Website **mahamud.me**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
